@@ -22,4 +22,4 @@ The application is implemented using modern JavaScript (ES Modules) and follows 
 
 ### Installation Steps
 1. Clone the repository or download the project files:
-   git clone 
+   git clone https://github.com/Sofiasantanaa/CPAN212---Lab-2.git
